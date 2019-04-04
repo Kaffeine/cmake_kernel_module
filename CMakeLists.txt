@@ -12,3 +12,7 @@ include(KernelModule)
 add_kernel_module(example1
     example1.c
 )
+
+add_kernel_module(example2
+    example2.c
+)
